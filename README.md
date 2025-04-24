@@ -1,3 +1,70 @@
+## 📁 Wallpapers
+
+This repo contains CTP-EOS wallpapers organized by desktop environment:
+## CTP-EOS Linux Wallpaper Collections
+
+**CTP Specific Wallpapers Groups**
+
+- [C-body Wallpapers](./conscious/)
+- [Conscious Wallpapers](./conscious/)
+- [C-domain Wallpapers](./c-domain/)
+- [C-existence Wallpapers](./c-existence/)
+- [CTPSci Sciences Wallpapers](./ctpsci/)
+- [CTP Gravitic Pods Wallpapers](./ctppods/)
+- [CTP Healing Wallpapers](./ctphealing/)
+- [CTP Holistic Wallpapers](./ctpholistics/)
+- [CTP Holistics Centers Wallpapers](./ctpholisticcenters/)
+- [CTP Industrial Space Platforms Wallpapers](./ctpisps/)
+- [CTP Scout Recon Craft](./ctpdiscs/)
+- [CTP Spacecraft Wallpapers](./ctpspacecraft/)
+- [CTP Spaceliners Wallpapers](./ctpspaceliners/)
+- [CTP Technologies Wallpapers](./ctptch/)
+
+**Desktop Environments**
+
+- [Budgie Wallpapers](./budgie/)
+- [Cinnamon Wallpapers](./cinnamon/)
+- [Deepin Wallpapers](./deepin/)
+- [Enlightenment Wallpapers](./enlightenment/)
+- [GNOME Wallpapers](./gnome/)
+- [KDE Plasma Wallpapers](./plasma/)
+- [LXDE Wallpapers](./lxde/)
+- [LXQt Wallpapers](./lxqt/)
+- [MATE Wallpapers](./mate/)
+- [Pantheon Wallpapers](./pantheon/)
+- [Trinity Desktop Wallpapers](./trinity/)
+- [Unity Wallpapers](./unity/)
+- [XFCE Wallpapers](./xfce/)
+
+**Extraterrestrial Wallpapers**
+
+- [Extraterrestrial Wallpapers](./extraterrestrials/) 
+
+**Tiling Window Managers/Window Managers**
+
+- [Awesome WM Wallpapers](./awesome/)
+- [BlackBox Wallpapers](./blackbox/)
+- [BSPWM Wallpapers](./bspwm/)
+- [Fluxbox Wallpapers](./fluxbox/)
+- [Herbstluftwm Wallpapers](./herbstluftwm/)
+- [Hyprland Wallpapers](./hyprland/)
+- [i3 Wallpapers](./i3/)
+- [Openbox Wallpapers](./openbox/)
+- [Qtile Wallpapers](./qtile/)
+- [Ratpoison Wallpapers](./ratpoison/)
+- [Spectrwm Wallpapers](./spectrwm/)
+- [Sway Wallpapers](./sway/)
+- [Wayfire Wallpapers](./wayfire/)
+- [XMonad Wallpapers](./xmonad/)
+- [ZWM Wallpapers](./zwm/)
+ 
+**UFO/UAP Wallpapers** *(general internet sourced files)*
+
+- [UAP Wallpapers](./uaps/)
+- [UFO Wallpapers](./ufos/)
+
+---
+
 ## License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
