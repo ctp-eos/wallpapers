@@ -1,6 +1,6 @@
 ## 📁 Wallpapers
 
-This repo contains CTP-EOS wallpapers organized by desktop environment:
+This repo contains CTP-EOS wallpapers organized by desktop environment, function, interest, or topic:
 ## CTP-EOS Linux Wallpaper Collections
 
 **CTP Specific Wallpapers Groups**
@@ -9,7 +9,7 @@ This repo contains CTP-EOS wallpapers organized by desktop environment:
 - [Conscious Wallpapers](./conscious/)
 - [C-domain Wallpapers](./c-domain/)
 - [C-existence Wallpapers](./c-existence/)
-- [CTPSci Sciences Wallpapers](./ctpsci/)
+- [CTP Corporate Wallpapers](./ctpcorporate/)
 - [CTP Gravitic Pods Wallpapers](./ctppods/)
 - [CTP Healing Wallpapers](./ctphealing/)
 - [CTP Holistic Wallpapers](./ctpholistics/)
@@ -19,6 +19,7 @@ This repo contains CTP-EOS wallpapers organized by desktop environment:
 - [CTP Spacecraft Wallpapers](./ctpspacecraft/)
 - [CTP Spaceliners Wallpapers](./ctpspaceliners/)
 - [CTP Technologies Wallpapers](./ctptch/)
+- [CTPSci Sciences Wallpapers](./ctpsci/)
 
 **Desktop Environments**
 
