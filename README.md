@@ -5,7 +5,7 @@ This repo contains CTP-EOS wallpapers organized by desktop environment, function
 
 **CTP Specific Wallpapers Groups**
 
-- [C-body Wallpapers](./conscious/)
+- [C-body Wallpapers](./cbody/)
 - [Conscious Wallpapers](./conscious/)
 - [C-domain Wallpapers](./c-domain/)
 - [C-existence Wallpapers](./c-existence/)
@@ -15,10 +15,12 @@ This repo contains CTP-EOS wallpapers organized by desktop environment, function
 - [CTP Holistic Wallpapers](./ctpholistics/)
 - [CTP Holistics Centers Wallpapers](./ctpholisticcenters/)
 - [CTP Industrial Space Platforms Wallpapers](./ctpisps/)
-- [CTP Scout Recon Craft](./ctpdiscs/)
+- [CTP ON1X Craft Wallpapers](./ctpon1x/)
+- [CTP Scout Recon Craft Wallpapers](./ctpdiscs/)
 - [CTP Spacecraft Wallpapers](./ctpspacecraft/)
 - [CTP Spaceliners Wallpapers](./ctpspaceliners/)
 - [CTP Technologies Wallpapers](./ctptch/)
+- [CTP Transports Wallpapers](./ctptransports/)
 - [CTPSci Sciences Wallpapers](./ctpsci/)
 
 **Desktop Environments**
