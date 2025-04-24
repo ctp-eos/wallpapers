@@ -58,9 +58,9 @@ This repo contains CTP-EOS wallpapers organized by desktop environment, function
 
 - [Group 1 Wallpapers](./group1/)
 
-**Tiling Window Managers/Window Managers**
+**Tiling Window Managers/Window Managers Wallpapers**
 
-- [Awesome WM Wallpapers](./awesome/)
+- [AwesomeWM Wallpapers](./awesome/)
 - [BlackBox Wallpapers](./blackbox/)
 - [BSPWM Wallpapers](./bspwm/)
 - [Fluxbox Wallpapers](./fluxbox/)
