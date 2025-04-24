@@ -15,6 +15,7 @@ This repo contains CTP-EOS wallpapers organized by desktop environment, function
 - [CTP Corporate Wallpapers](./ctpcorporate/)  
 - [CTP Energy Wallpapers](./ctpenergy/)
 - [CTP Energy Computers Wallpapers](./ctpcomputers/)
+- [CTP Gravitic Platforms Wallpapers](./ctpgps/)
 - [CTP Gravitic Pods Wallpapers](./ctppods/)
 - [CTP Healing Wallpapers](./ctphealing/)
 - [CTP Holistic Wallpapers](./ctpholistics/)
