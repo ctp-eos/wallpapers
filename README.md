@@ -43,6 +43,10 @@ This repo contains CTP-EOS wallpapers organized by desktop environment, function
 
 - [Extraterrestrial Wallpapers](./extraterrestrials/) 
 
+**General/other Wallpapers**
+
+- [Group 1 Wallpapers](./group1/)
+
 **Tiling Window Managers/Window Managers**
 
 - [Awesome WM Wallpapers](./awesome/)
