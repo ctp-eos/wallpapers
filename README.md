@@ -3,7 +3,7 @@
 This repo contains CTP-EOS wallpapers organized by desktop environment, function, interest, or topic:
 ## CTP-EOS Linux Wallpaper Collections
 
-**CTP Wallpapers**
+**CTP-EOS Wallpapers**
 
 - [C-body Wallpapers](./cbody/)
 - [Conscious Wallpapers](./conscious/)
@@ -34,7 +34,7 @@ This repo contains CTP-EOS wallpapers organized by desktop environment, function
 - [CTP Transports Wallpapers](./ctptransports/)
 - [CTPSci Sciences Wallpapers](./ctpscisciences/)
 
-**Desktop Environments**
+**CTP-EOS Desktop Environments**
 
 - [Budgie Wallpapers](./budgie/)
 - [Cinnamon Wallpapers](./cinnamon/)
@@ -58,7 +58,7 @@ This repo contains CTP-EOS wallpapers organized by desktop environment, function
 
 - [Group 1 Wallpapers](./group1/)
 
-**Tiling Window Managers/Window Managers Wallpapers**
+**CTP-EOS Tiling Window Managers/Window Managers Wallpapers**
 
 - [AwesomeWM Wallpapers](./awesome/)
 - [BlackBox Wallpapers](./blackbox/)
@@ -76,14 +76,14 @@ This repo contains CTP-EOS wallpapers organized by desktop environment, function
 - [XMonad Wallpapers](./xmonad/)
 - [ZWM Wallpapers](./zwm/)
  
-**UFO/UAP Wallpapers** *(general internet sourced files)*
+**CTP-EOS UFO/UAP Wallpapers** *(general internet sourced files)*
 
 - [UAP Wallpapers](./uaps/)
 - [UFO Wallpapers](./ufos/)
 
 ---
 
-## License
+## CTP-EOS Wallpapers License
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
 
